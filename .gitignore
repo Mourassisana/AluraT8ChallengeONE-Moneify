@@ -1,0 +1,68 @@
+# =========================
+# 🚀 IntelliJ IDEA
+# =========================
+
+.idea/
+*.iml
+
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+# =========================
+# 🛠️ Java / Compilação
+# =========================
+
+*.class
+*.log
+
+# =========================
+# 🔐 Arquivo sensível
+# =========================
+
+/config/config.properties
+
+# =========================
+# 🧠 Eclipse
+# =========================
+
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+# =========================
+# 🧰 NetBeans
+# =========================
+
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# =========================
+# 🎨 VS Code
+# =========================
+
+.vscode/
+
+# =========================
+# 🍏 macOS
+# =========================
+
+.DS_Store
+
+# =========================
+# 🧼 Backups temporários
+# =========================
+
+*.swp
+*~
+*.bak
