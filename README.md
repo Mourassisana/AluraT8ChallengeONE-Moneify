@@ -96,7 +96,7 @@ apiKey=SUA_CHAVE_AQUI
 
 - Desenvolvido por Mourassisana ✨
 - Alura + Oracle Next Education
-- Repositório público: [inserir link do GitHub aqui]
+- Repositório público: https://github.com/Mourassisana/AluraT8ChallengeONE-Moneify
 
 ---
 
