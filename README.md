@@ -40,10 +40,10 @@ O projeto foi estruturado com foco em boas práticas, separação de responsabil
 Navegação por opções no terminal, com leitura sequencial e formatação clara.
 
 📸 *Execução inicial:*  
-![Início do Console](assets/Console/InitConsole.png)
+![Início do Console](assets/Console/InitConsole.PNG)
 
 📸 *Encerramento da sessão:*  
-![Encerramento do Console](assets/Console/WrapUpConsole.png)
+![Encerramento do Console](assets/Console/WrapUpConsole.PNG)
 
 ### 2. Modo Gráfico (GUI)
 
@@ -87,7 +87,7 @@ O arquivo `config.properties` deve conter sua chave da API para funcionar corret
 apiKey=SUA_CHAVE_AQUI
 ```
 
-📸 *Exemplo de configuração do arquivo:*
+📸 *Exemplo de configuração do arquivo:*  
 ![SUA_CHAVE_API](assets/Config/SUA_CHAVE_AQUI.PNG)
 
 ---
